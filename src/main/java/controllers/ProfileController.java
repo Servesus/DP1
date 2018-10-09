@@ -37,7 +37,7 @@ public class ProfileController extends AbstractController {
 		quotes = new ArrayList<String>();
 		quotes.add("Make it simple, not simpler --Albert Einstein");
 		quotes.add("I have a dream -- Martin L. King");
-		quotes.add("It always seems possible until it's done -- Nelson Mandela");
+		quotes.add("It always seems impossible until it's done -- Nelson Mandela");
 		quotes.add("Cogito, ergo sum -- René Descartes");
 		quotes.add("Viva el rey -- Pablo Casado");
 		Collections.shuffle(quotes);
